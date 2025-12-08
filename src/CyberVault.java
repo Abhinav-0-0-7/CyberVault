@@ -136,7 +136,7 @@ public class CyberVault {
                     break;
 
                 case 5:
-                    System.out.println("Exiting. Goodbye!");
+                    System.out.println("Depressing. Goodbye!");
                     sc.close();
                     return;
 
